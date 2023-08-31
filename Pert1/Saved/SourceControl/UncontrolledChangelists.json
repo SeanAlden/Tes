@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/5D/S0XPT37WGV5LVAXLQSJ3F2.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DD/TY7PKEUNDPELTYCZIJAYYQ.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/S0/PU7T8GK0FVMU9T0QIEFE6K.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JR/29QJHXBSZIEH8BEEQHXV0I.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/ThirdPerson/Blueprints/BP_EnemyAI.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PI/5LAG0TQFT21HULG27Q2CXR.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F9/RZVABXEW2L9NNM2W3QRWDD.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1R/KNMW2L9WWYKI8LU0WEVMGX.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/Characters/Mannequins/Animations/AI/AP_EnemyAI.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/Characters/Mannequins/Animations/AI/WalkBlendSpace1D.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/Tasks/BTTask_RoamAround.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/BT_AI.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/BP_AI.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/AI_Controller.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/11/YE5MW37O8W6NV7QCYV2NA0.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BT/9AYWSQ68VL6Z1LNG47WLC9.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/Animation/AIBlendSpace1D.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/Animation/ABP_AI.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/Tasks/BTTask_ChasePlayer.uasset",
+				"D:/DATA KULIAH/SEMESTER 5/Pemrograman Game/Pert1/Content/AI/BBB_AI.uasset"
+			]
+		}
+	]
+}
